@@ -1,0 +1,299 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="elCcy8_2Oi9FZFHeJin9">
+    <mxGraphModel dx="2387" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-28" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5yoAqER-lPVPyGGLVZMT-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="DEBUT DU JEU" vertex="1">
+          <mxGeometry height="20" width="100" x="340" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-10" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-11" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309.8571428571428" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-5" parent="1" style="whiteSpace=wrap;html=1;" value="distribuer 3 cartes a chaque utulisateur" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-18" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5yoAqER-lPVPyGGLVZMT-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-9" parent="1" style="whiteSpace=wrap;html=1;" value="chaque joueur peut changer l&#39;ordre" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-26" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-12" parent="1" style="whiteSpace=wrap;html=1;" value="Debut de 20s chrono&lt;div&gt;Boutton (pret)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-24" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="5yoAqER-lPVPyGGLVZMT-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-121" connectable="0" parent="5yoAqER-lPVPyGGLVZMT-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="non" vertex="1">
+          <mxGeometry relative="1" x="-0.5677" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Tous pret avant la fin ?" vertex="1">
+          <mxGeometry height="60" width="150" x="305" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-23" parent="1" style="whiteSpace=wrap;html=1;" value="forcer ordre actuel" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="527" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-29" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-40" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="5yoAqER-lPVPyGGLVZMT-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-27" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Attente des joueurs" vertex="1">
+          <mxGeometry height="40" width="80" x="340" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-31" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-32" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="5yoAqER-lPVPyGGLVZMT-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="345" as="sourcePoint" />
+            <mxPoint x="290" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-32" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="190" width="190" x="30" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="carte3 ( bouclier)" vertex="1">
+          <mxGeometry height="50" width="100" x="80" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="carte1" vertex="1">
+          <mxGeometry height="95" width="55" x="55" y="247.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" value="carte2" vertex="1">
+          <mxGeometry height="95" width="55" x="140" y="247.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ordre:" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="assis sur chaise/claim via boutton" vertex="1">
+          <mxGeometry height="50" width="80" x="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-41" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="(jeu débute sur&amp;nbsp;&lt;div&gt;chaise 1)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-42" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Bouclier (version Roblox)&lt;/h1&gt;&lt;p&gt;Pour 4 Joueurs.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="200" x="25" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-43" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-120" connectable="0" parent="5yoAqER-lPVPyGGLVZMT-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Oui" vertex="1">
+          <mxGeometry relative="1" x="-0.6737" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-44" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-87" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5yoAqER-lPVPyGGLVZMT-86" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;autosizeText=1;fontSize=22;" value="a mon tour!" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosizeText=1;fontSize=25;" value="MATCHMAKIN" vertex="1">
+          <mxGeometry height="50" width="180" x="300" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-117" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-116" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="824.9999999999995" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-47" parent="1" style="whiteSpace=wrap;html=1;" value="dévoiler les cartes" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="627" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-58" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="5yoAqER-lPVPyGGLVZMT-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-59" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-60" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;autosizeText=1;fontSize=21;" value="Prendre une carte&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-77" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5yoAqER-lPVPyGGLVZMT-76" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;autosizeText=1;fontSize=21;" value="Changer un bouclier" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="377.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-84" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;autosizeText=1;fontSize=30;" value="attaquer" vertex="1">
+          <mxGeometry height="50" width="120" x="860" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-96" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;autosizeText=1;fontSize=33;" value="charger" vertex="1">
+          <mxGeometry height="50" width="120" x="576" y="387.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;autosizeText=1;fontSize=21;" value="Prochain joueur" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-80" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5yoAqER-lPVPyGGLVZMT-79" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-76" parent="1" style="whiteSpace=wrap;html=1;rounded=0;autosizeText=1;fontSize=14;" value="&lt;div&gt;Selection :&amp;nbsp;&lt;/div&gt;[Liste des joueurs en vie (+Soi)]" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-82" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5yoAqER-lPVPyGGLVZMT-81" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-79" parent="1" style="whiteSpace=wrap;html=1;rounded=0;autosizeText=1;fontSize=18;" value="pioche carte" vertex="1">
+          <mxGeometry height="30" width="120" x="720" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-97" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-81" parent="1" style="whiteSpace=wrap;html=1;rounded=0;autosizeText=1;fontSize=17;" value="changement du bouclier" vertex="1">
+          <mxGeometry height="50" width="120" x="720" y="612" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-92" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-83" parent="1" style="whiteSpace=wrap;html=1;rounded=0;autosizeText=1;fontSize=14;" value="&lt;div&gt;Selection :&amp;nbsp;&lt;/div&gt;[Liste des joueurs en vie (-Soi)]" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-110" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5yoAqER-lPVPyGGLVZMT-109" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-85" parent="1" style="whiteSpace=wrap;html=1;rounded=0;autosizeText=1;fontSize=11;" value="Bouclier Defendo&lt;div&gt;( attaque-Bouclier Attaqué)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="860" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-88" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-89" connectable="0" parent="5yoAqER-lPVPyGGLVZMT-88" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Non" vertex="1">
+          <mxGeometry relative="1" x="-0.3593" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-90" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-91" connectable="0" parent="5yoAqER-lPVPyGGLVZMT-90" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Oui" vertex="1">
+          <mxGeometry relative="1" x="-0.48" y="-2" as="geometry">
+            <mxPoint y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-86" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="carte Chargé?" vertex="1">
+          <mxGeometry height="60" width="80" x="740" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-99" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="5yoAqER-lPVPyGGLVZMT-98" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-107" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-93" parent="1" style="whiteSpace=wrap;html=1;rounded=0;autosizeText=1;fontSize=11;" value="Reste touche Vie&amp;nbsp;&lt;div&gt;Rattaque ( Vbouclier-Vattaque) - Vie&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="860" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-100" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="1010" />
+              <mxPoint x="780" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-101" connectable="0" parent="5yoAqER-lPVPyGGLVZMT-100" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Oui (attaqué encore en vie)" vertex="1">
+          <mxGeometry relative="1" x="-0.8076" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-103" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-102" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-108" connectable="0" parent="5yoAqER-lPVPyGGLVZMT-103" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Non&amp;nbsp;&lt;div&gt;(attaqué mort)&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2419" y="1" as="geometry">
+            <mxPoint x="-15" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-98" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;autosizeText=1;fontSize=11;" value="Vie restante &amp;gt;0" vertex="1">
+          <mxGeometry height="60" width="80" x="880" y="903" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-104" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="1010" />
+              <mxPoint x="780" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-102" parent="1" style="whiteSpace=wrap;html=1;rounded=0;autosizeText=1;fontSize=21;" value="Tuer attaqué" vertex="1">
+          <mxGeometry height="60" width="120" x="1030" y="903" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-105" parent="1" style="whiteSpace=wrap;html=1;rounded=0;autosizeText=1;fontSize=17;" value="Update Cartes" vertex="1">
+          <mxGeometry height="50" width="120" x="860" y="827" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-111" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-113" connectable="0" parent="5yoAqER-lPVPyGGLVZMT-111" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Oui (bouclier absor&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;é pas tout)&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1032" y="-1" as="geometry">
+            <mxPoint x="77" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-114" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-115" connectable="0" parent="5yoAqER-lPVPyGGLVZMT-114" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Non (&lt;div&gt;bouclier tout&amp;nbsp;&lt;/div&gt;&lt;div&gt;absorbé)&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.628" as="geometry">
+            <mxPoint x="50" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-109" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;autosizeText=1;fontSize=12;" value="RAttaque apres Bouclier?" vertex="1">
+          <mxGeometry height="80" width="130" x="855" y="642" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-116" parent="1" style="whiteSpace=wrap;html=1;" value="DEBUT DE LA RONDE" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-122" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="5yoAqER-lPVPyGGLVZMT-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-123" parent="1" style="rounded=0;whiteSpace=wrap;html=1;autosizeText=1;fontSize=25;" value="Fin du jeu" vertex="1">
+          <mxGeometry height="60" width="120" x="875" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-127" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-130" connectable="0" parent="5yoAqER-lPVPyGGLVZMT-127" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;gt;1" vertex="1">
+          <mxGeometry relative="1" x="-0.4375" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-128" edge="1" parent="1" source="5yoAqER-lPVPyGGLVZMT-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5yoAqER-lPVPyGGLVZMT-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-131" connectable="0" parent="5yoAqER-lPVPyGGLVZMT-128" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;1" vertex="1">
+          <mxGeometry relative="1" x="-0.9083" y="-1" as="geometry">
+            <mxPoint x="24" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-125" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;autosizeText=1;fontSize=12;" value="Joueurs restants ?" vertex="1">
+          <mxGeometry height="80" width="80" x="740" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="5yoAqER-lPVPyGGLVZMT-133" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosizeText=1;fontSize=35;" value="JEU" vertex="1">
+          <mxGeometry height="50" width="180" x="690" y="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
